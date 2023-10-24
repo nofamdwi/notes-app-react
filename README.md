@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Notes App
 
 A simple notes management web application built using React.
